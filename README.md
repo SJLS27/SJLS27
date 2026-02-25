@@ -17,7 +17,7 @@
 I'm a Computer Engineering student at Universidad Gran Mariscal de Ayacucho, passionate about building practical software that solves real problems. I enjoy working across the stack — from Python scripts to Rust-powered desktop apps.
 
 - 🌍 Based in Ciudad Bolívar, Venezuela
-- 🗣️ Fluent in Spanish and English
+- 🗣️ Fluent in Spanish C2 in English
 - 📚 Currently in 3rd semester, always learning
 
 ---
@@ -49,15 +49,5 @@ Sales record management system built with **Python** for a local store. Handles 
 Desktop inventory management app built with **Tauri (Rust + Web)**. Lightweight, fast, and cross-platform.
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SJLS27&show_icons=true&theme=dark&hide_border=true" alt="Santiago's GitHub stats" />
-</p>
-
----
-
-<p align="center">
   <i>Open to junior developer opportunities — remote or local 🌐</i>
 </p>
