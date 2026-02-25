@@ -17,7 +17,7 @@
 I'm a Computer Engineering student at Universidad Gran Mariscal de Ayacucho, passionate about building practical software that solves real problems. I enjoy working across the stack — from Python scripts to Rust-powered desktop apps.
 
 - 🌍 Based in Ciudad Bolívar, Venezuela
-- 🗣️ Fluent in Spanish C2 in English
+- 🗣️ Fluent in Spanish, B2 in English
 - 📚 Currently in 3rd semester, always learning
 
 ---
