@@ -18,7 +18,7 @@ I'm a Computer Engineering student at Universidad Gran Mariscal de Ayacucho, pas
 
 - 🌍 Based in Ciudad Bolívar, Venezuela
 - 🗣️ Fluent in Spanish, B2 in English
-- 📚 Currently in 3rd semester, always learning
+- 📚 Currently in 5rd semester, always learning
 
 ---
 
